@@ -19,3 +19,7 @@
 .log-right {
   background-color: lightblue;
 }
+.car-right,
+.car-left {
+  background-color: lightgrey;
+}
