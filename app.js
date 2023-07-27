@@ -6,5 +6,5 @@ const squares = document.querySelectorAll(".grid div");
 function moveFrog() {
   console.log("moved");
 }
-
+//press anykey
 document.addEventListener("keyup", moveFrog);
